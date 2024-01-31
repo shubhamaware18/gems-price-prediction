@@ -1,0 +1,6 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1573       1    1573        256  cons1     197609 19:43:42 /usr/bin/bash
+     1497    1356    1497      11172  cons0     197609 19:39:39 /usr/bin/bash
+     1356       1    1356        696  cons0     197609 19:05:32 /usr/bin/bash
+     1595    1573    1595       8596  cons1     197609 19:43:44 /usr/bin/PS
+     1520    1497    1497       6376  cons0     197609 19:40:36 /d/Projects/gemstonePricePrediction/env/Scripts/pip
