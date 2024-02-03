@@ -29,4 +29,3 @@ class ModelEvalution:
             logging.info()
             raise customexception(e, sys)
         
-
