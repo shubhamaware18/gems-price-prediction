@@ -46,6 +46,7 @@ class DataIngestion:
             )
         # except logic
         except Exception as e:
+            # print(e)
             logging.error(str(e))
             raise customexception(e, sys)
 
